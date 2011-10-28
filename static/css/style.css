@@ -1,0 +1,13 @@
+#canvas-div {
+  width: 1000px;
+  height: 500px;
+  margin: 0px auto;
+}
+
+#loading-div {
+  margin: 150px 450px;
+}
+
+#tag-links {
+  display: none;
+}

@@ -1,0 +1,1 @@
+{"title":"Katamari","desc":"Katamari ROLLLLLLLL!!","handle":"erictj-katamari-viewer","author":"erictj","viewer":"links","uses":["facebook","twitter"],"status":"stable","static":"true","autoInstall":true}
